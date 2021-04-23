@@ -6,6 +6,7 @@
 @import "base/mixins.scss";
 
 // Custom colors
+// push
 $primary: {{ site.data.style.highlight | default: "#ff804e" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
