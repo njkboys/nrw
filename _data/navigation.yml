@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Launches"
       section: launches
     - title: "Projects"
-      section: projects
+      section: portfolio
     - title: "Contact"
       section: contact
 #    - title: "Contact"
